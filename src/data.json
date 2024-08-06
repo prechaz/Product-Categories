@@ -1,0 +1,167 @@
+{
+
+  "category":[
+    {
+      "id": 1,
+      "name": "Electronics",
+      "subcategories": ["gadgets", "gaming", "smartphones"]
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "subcategories": ["clothing", "women's Wear", "accessories"]
+    },
+    {
+      "id": 3,
+      "name": "Home",
+      "subcategories": ["furniture", "kitchen", "decor"]
+    },
+    {
+      "id": 4,
+      "name": "Beauty",
+      "subcategories": ["skincare", "haircare", "makeup"]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categories": ["electronics", "gadgets"],
+      "image": "https://images.unsplash.com/photo-1517344851896-813595591e7c",
+      "product": "Apple Watch",
+      "description": "Stay connected with the Apple Watch, featuring a large display and all-day battery life."
+    },
+    {
+      "id": 2,
+      "categories": ["fashion", "accessories"],
+      "image": "https://images.unsplash.com/photo-1588945454014-0347b5750e34",
+      "product": "Leather Wallet",
+      "description": "A stylish and durable leather wallet for men, perfect for everyday use."
+    },
+    {
+      "id": 3,
+      "categories": ["home", "kitchen"],
+      "image": "https://images.unsplash.com/photo-1577976474564-743a1777f2e1",
+      "product": "Nespresso Coffee Machine",
+      "description": "Experience the perfect cup of coffee with the Nespresso Coffee Machine, featuring a sleekdesign and advanced features."
+    },
+    {
+      "id": 4,
+      "categories": ["beauty", "skincare"],
+      "image": "https://images.unsplash.com/photo-1591051174171-611e3b2cfa29",
+      "product": "Moisturizing Cream",
+      "description": "Hydrate and nourish your skin with our Moisturizing Cream, rich in antioxidants and vitamins."
+    },
+    {
+      "id": 5,
+      "categories": ["electronics", "gaming"],
+      "image": "https://images.unsplash.com/photo-1588945491243-4b13b591a91f",
+      "product": "PlayStation 5",
+      "description": "Experience the next generation of gaming with the PlayStation 5, featuring a powerful processor and stunning graphics."
+    },
+    {
+      "id": 6,
+      "categories": ["fashion", "clothing"],
+      "image": "https://images.unsplash.com/photo-1588945512083-02255103971b",
+      "product": "Denim Jeans",
+      "description": "Stay stylish and comfortable with our Denim Jeans, featuring a classic design and durable material."
+    },
+    {
+      "id": 7,
+      "categories": ["home", "decor"],
+      "image": "https://images.unsplash.com/photo-1577976494346-6f1a1a2113e1",
+      "product": "Artistic Painting",
+      "description": "Add a touch of elegance to your home with our Artistic Painting, featuring a unique design and vibrant colors."
+    },
+    {
+      "id": 8,
+      "categories": ["beauty", "haircare"],
+      "image": "https://images.unsplash.com/photo-1591051223519-6c5a3a3d8b4f",
+      "product": "Shampoo",
+      "description": "Keep your hair clean and healthy with our Shampoo, featuring a gentle formula and refreshing scent."
+    },
+    {
+      "id": 9,
+      "categories": ["electronics", "smartphones"],
+      "image": "https://images.unsplash.com/photo-1588945522527-8f9a3a4a4a4f",
+      "product": "iPhone 13",
+      "description": "Stay connected with the iPhone 13, featuring a powerful processor and advanced camera system."
+    },
+    {
+      "id": 10,
+      "categories": ["fashion", "accessories"],
+      "image": "https://images.unsplash.com/photo-1588945531117-9a4a3a5a5a5b",
+      "product": "Leather Belt",
+      "description": "Add a touch of style to your outfit with our Leather Belt, featuring a classic design and durable material."
+    },
+    {
+      "id": 11,
+      "categories": ["home", "kitchen"],
+      "image": "https://images.unsplash.com/photo-1577976514153-7f1a1a1a1a1a",
+      "product": "Stand Mixer",
+      "description": "Bake like a pro with our Stand Mixer, featuring a powerful motor and versatile attachments."
+    },
+    {
+      "id": 12,
+      "categories": ["beauty", "makeup"],
+      "image": "https://m.media-amazon.com/images/I/51RX7A6I5JL._SL1500_.jpg",
+      "product": "Lipstick",
+      "description": "Add a pop of color to your look with our Lipstick, featuring a wide range of shades and a moisturizing formula."
+    },
+    {
+      "id": 13,
+      "categories": ["electronics", "gaming"],
+      "image": "https://m.media-amazon.com/images/I/61H5+bvI+gL._SL1500_.jpg",
+      "product": "Xbox Series X",
+      "description": "Experience the next generation of gaming with the Xbox Series X, featuring a powerful processor and stunning graphics."
+    },
+    {
+      "id": 14,
+      "categories": ["fashion", "clothing"],
+      "image": "https://m.media-amazon.com/images/I/71vQm6W7WgL._SL1500_.jpg",
+      "product": "T-Shirt",
+      "description": "Stay stylish and comfortable with our T-Shirt, featuring a classic design and soft material."
+    },
+    {
+      "id": 15,
+      "categories": ["home", "decor"],
+      "image": "https://m.media-amazon.com/images/I/81v1Wp+u8gL._SL1500_.jpg",
+      "product": "Vase",
+      "description": "Add a touch of elegance to your home with our Vase, featuring a unique design and beautiful colors."
+    },
+    {
+      "id": 16,
+      "categories": ["beauty", "skincare"],
+      "image": "https://m.media-amazon.com/images/I/71YqWm9ZIgL._SL1500_.jpg",
+      "product": "Face Cream",
+      "description": "Hydrate and nourish your skin with our Face Cream, featuring a rich formula and gentle ingredients."
+    },
+    {
+      "id": 17,
+      "categories": ["electronics", "smartphones"],
+      "image": "https://m.media-amazon.com/images/I/71i+VXyY8gL._SL1500_.jpg",
+      "product": "Samsung Galaxy S22",
+      "description": "Stay connected with the Samsung Galaxy S22, featuring a powerful processor and advanced camera system."
+    },
+    {
+      "id": 18,
+      "categories": ["fashion", "accessories"],
+      "image": "https://m.media-amazon.com/images/I/71vQm6W7WgL._SL1500_.jpg",
+      "product": "Sunglasses",
+      "description": "Add a touch of style to your outfit with our Sunglasses, featuring a classic design and durable material."
+    },
+    {
+      "id": 19,
+      "categories": ["home", "kitchen"],
+      "image": "https://m.media-amazon.com/images/I/81v1Wp+u8gL._SL1500_.jpg",
+      "product": "Coffee Maker",
+      "description": "Start your day off right with our Coffee Maker, featuring a sleek design and advanced features."
+    },
+    {
+      "id": 20,
+      "categories": ["beauty", "haircare"],
+      "image": "https://m.media-amazon.com/images/I/71YqWm9ZIgL._SL1500_.jpg",
+      "product": "Conditioner",
+      "description": "Keep your hair healthy and strong with our Conditioner, featuring a nourishing formula and refreshing scent."
+    }
+  ]
+}
